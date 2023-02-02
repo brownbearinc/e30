@@ -1,0 +1,50 @@
+* {
+	font-family: monospace;
+	color: purple;
+}
+
+body {
+	height: 100vh;
+	background: linear-gradient(135deg, #40cfd4, #d03d82);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+form {
+	width: 22rem;
+}
+
+label {
+	font-size: large;
+}
+
+input[type=text],
+input[type=password],
+input[type=submit] {
+	width: 100%;
+	margin: 0.7rem 0;
+	border-radius: 0.5rem;
+	padding: 1.3rem 1.5rem;
+	box-sizing: border-box;
+}
+
+button:hover {
+	opacity: 0.6;
+	cursor: pointer;
+}
+
+.white {
+	color: white;
+}
+
+img {
+	width: 100%;
+}
+
+section {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+
+}
