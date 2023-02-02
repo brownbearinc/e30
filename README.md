@@ -1,3 +1,3 @@
 # e30
 
-Denna webbsida är till min vän 
+Denna webbsida är till min vän.
